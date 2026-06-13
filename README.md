@@ -8,7 +8,6 @@ A novelty magic-8-ball-style python script featuring tux
 4. Run main.py
 
 ## Usage
-Ask tux yes/no questions and recieve an answer
-Enter q to quit the program
+Ask tux yes/no questions and recieve an answer. Enter q to quit the program
 
 
